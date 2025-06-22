@@ -56,7 +56,7 @@ function navigateTo(routeName) {
   right: 10px;
   background: transparent;
   border: none;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   cursor: pointer;
 }
 
